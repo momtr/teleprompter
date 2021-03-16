@@ -1,7 +1,7 @@
 import React from 'react';
 
 const globalState = {
-    text: 'Hi! Heite zeige ich dir wie Du dir ganz einfach eine eigene Website zusammenstellen kannst und diese auch verwenden kannst. Dazu sind wenige Schritte notwendig, die ich dir aber alle bebringen möchte. Als erstes musst du die Differentialgleichung dritten Grades lösen, um dann mit dem Rest fortzufahren. Dann nimm ein Noughatknödel zur Hand und iss es auf.',
+    text: 'Hi! This text will be pretty random. This is an interactive telepromter built with react. You can use it to prepare better for videos and stuff like that. This is a random senetcen, I am not very creative, I know. Test, this is just a test. Hi! This text will be pretty random. This is an interactive telepromter built with react. You can use it to prepare better for videos and stuff like that. This is a random senetcen, I am not very creative, I know. Test, this is just a test.',
     editMode: true,
     pause: true
 }

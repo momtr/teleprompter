@@ -60,7 +60,7 @@ function Teleprompter() {
     if (state.pause) {
       SpeechRecognition.startListening({
         continuous: true,
-        language: 'de-DE'
+        language: 'en-EN'
       });
     } else {
       SpeechRecognition.stopListening();
