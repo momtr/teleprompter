@@ -12,7 +12,7 @@ function Editor() {
 
   return (
     <div className="edit">
-      <h1 className="center">🚀 Write your text</h1>
+      <h1 className="center">🚀 Tell your story</h1>
       <textarea className="editor-box" id="editor" onChange={(e) => setText(e.target.value)} defaultValue={state.text} />
       <button className="editor-button" onClick={startTeleprompter}>Start Teleprompter</button>
     </div>
